@@ -1,0 +1,2 @@
+# BadInt
+Badania internetowe
